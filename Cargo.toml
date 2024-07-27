@@ -1,0 +1,7 @@
+[package]
+name = "Order_of_an_Element_of_a_Direct_Product_of_Multiplicative_Groups"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+num = "0.4"
