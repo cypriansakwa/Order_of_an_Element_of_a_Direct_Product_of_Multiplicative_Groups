@@ -1,3 +1,4 @@
+## Overview 
 This Rust program computes the order of an element $(a,b)\in \mathbb{Z}_n^\* \times \mathbb{Z}_m^\*$, where $Z_n^\*$ and $Z_m^\*$ are multiplicative groups. 
 The order of an element $(a,b)$ in this direct product is the least common multiple of the orders of $a\in \mathbb{Z}_n^\*$ and  $b\in \mathbb{Z}_m^\*$. 
 This order is the smallest positive integer $k$ such that $(a^k, b^k) = (1, 1)$.
